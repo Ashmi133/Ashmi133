@@ -19,6 +19,7 @@ Experienced in data cleaning, visualization.
 - Power BI
 - Excel
 - Tableau 
+- R Code
 
 ---
 
