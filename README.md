@@ -9,7 +9,7 @@ Aspiring Data Analyst | SQL | Python | Excel | Power BI | Turning Data into Insi
 
 ## 🚀 About Me
 Passionate about solving real-world business problems using data.  
-Experienced in data cleaning, visualization, and building ML models.
+Experienced in data cleaning, visualization.
 
 ---
 
